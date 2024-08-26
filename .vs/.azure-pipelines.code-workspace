@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"path": "../.azure-pipelines"
+		},
+		{
+			"path": "../.github"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../.vscode"
+		},
+		{
+			"path": "../node_modules"
+		},
+		{
+			"path": "../resources"
+		},
+		{
+			"path": "../src"
+		},
+		{
+			"path": "../test"
+		}
+	],
+	"settings": {
+		"debug.allowBreakpointsEverywhere": true,
+		"files.autoGuessEncoding": true,
+		"vscode-corda.isCordaProject": false
+	}
+}

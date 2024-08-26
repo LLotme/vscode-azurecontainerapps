@@ -763,7 +763,7 @@
         "@vscode/test-electron": "^2.3.8",
         "@vscode/vsce": "^2.19.0",
         "assert": "^2.0.0",
-        "eslint": "^8.42.0",
+        "eslint": "^8.57.0",
         "eslint-plugin-import": "^2.27.5",
         "glob": "^7.1.6",
         "gulp": "^5.0.0",
