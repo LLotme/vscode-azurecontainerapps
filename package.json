@@ -789,7 +789,7 @@
         "@microsoft/vscode-azext-utils": "^2.5.6",
         "@microsoft/vscode-azureresources-api": "^2.3.2",
         "buffer": "^6.0.3",
-        "dayjs": "^1.11.12",
+        "dayjs": "^1.11.13",
         "deep-eql": "^5.0.2",
         "dotenv": "^16.4.5",
         "fs-extra": "^11.2.0",
